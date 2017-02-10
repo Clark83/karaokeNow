@@ -1,0 +1,30 @@
+
+.title{
+  background-image: url("../images/title.png");
+  text-align: center;
+  position: relative;
+  width: 90%;
+  padding-bottom: 19%;
+  transform: translateY(-38%);
+  margin: 5%;
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size: cover;
+
+}
+
+
+.body {
+  background-color: rgb(32, 97, 91);
+  float: center;
+  text-align: center;
+  height:200px;
+  font-size:14pt;
+}
+
+.formInput {
+  text-align: center;
+  margin:auto;
+  padding-right: 14vw;
+  color: white;
+}
